@@ -1,0 +1,3 @@
+# Kept intentionally light for portability; pure-Python parsing used.
+matplotlib>=3.8
+pandas>=2.0
