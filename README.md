@@ -38,7 +38,7 @@ python scripts/filter_variants.py \
 
 ## Repo layout
 ```
-vcf-variant-filtering/
+vcf-variant-filtering-demo/
 ├── README.md
 ├── requirements.txt
 ├── data/
@@ -55,6 +55,4 @@ vcf-variant-filtering/
 ```
 ---
 
-🔗 More projects and work samples at [zrlo.dev](https://zrlo.dev)
-
-
+🔗 More projects and work samples at [zrlo.dev] (https://zrlo.dev)
