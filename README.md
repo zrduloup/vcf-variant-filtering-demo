@@ -36,8 +36,9 @@ python scripts/filter_variants.py \
   --clinvar-json data/mock_clinvar.json \
   --maf-threshold 0.01
 
+---
+
 ## Repo layout
-```
 vcf-variant-filtering-demo/
 ├── README.md
 ├── requirements.txt
@@ -52,7 +53,7 @@ vcf-variant-filtering-demo/
 │   └── exploratory.ipynb
 └── results/
     └── filtered_output.vcf
-```
+
 ---
 
 🔗 More projects and work samples at [zrlo.dev] (https://zrlo.dev)
