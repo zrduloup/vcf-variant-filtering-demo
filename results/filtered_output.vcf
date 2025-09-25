@@ -1,8 +1,0 @@
-##fileformat=VCFv4.2
-##source=synthetic-demo
-##INFO=<ID=MAF,Number=1,Type=Float,Description="Minor Allele Frequency">
-##INFO=<ID=CLNSIG,Number=1,Type=String,Description="Clinical significance">
-#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
-1	879317	.	A	G	.	PASS	MAF=0.005;CLNSIG=Pathogenic
-2	765432	.	G	A	.	PASS	MAF=0.0005;CLNSIG=Pathogenic
-3	999999	.	T	C	.	PASS	MAF=0.008;CLNSIG=Likely_pathogenic
