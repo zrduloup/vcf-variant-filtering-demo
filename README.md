@@ -172,7 +172,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Related Work
 
-- **Portfolio**: [zrlo.dev](https://zrlo.dev) - More projects and technical expertise
+- **Portfolio**: [zrl.dev](https://zrl.dev) - More projects and technical expertise
 - **Professional Background**: 7+ years in AI/ML data operations at Apple
 - **Specialization**: Genomics data analysis, annotation quality, and production pipeline development
 
